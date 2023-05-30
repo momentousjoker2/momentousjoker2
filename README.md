@@ -13,7 +13,8 @@ Aquí encontrarás una variedad de proyectos personales y profesionales que he d
 A lo largo de mi carrera, he trabajado en diversos proyectos que han abarcado diferentes áreas. Algunos de mis proyectos destacados incluyen: 
 - SISTEMA DE GESTIÓN DE VIVERO FORESTAL DE APEAJAL: [Proyecto](https://github.com/momentousjoker2/APEAJAL). 
 - SISTEMA DE CONTROL DE INVENTARIO Y MANTENIMIENTO DE EQUIPO DE MEDIOS AUDIOVISUALES:[Proyecto](https://github.com/momentousjoker2/Administrador-Recursos-Escolares)
-- [Nombre del Proyecto]: [Breve descripción del proyecto y sus logros]. 
+- SISTEMA DE GESTIÓN DE INVENTARIOS Y PAGOS A PROVEEDORES:[Proyecto](https://github.com/momentousjoker2/Ferreteria)
+- SISTEMA DE GESTIÓN DE CONSULTORIO PSICOLÓGICO:[Proyecto](https://github.com/momentousjoker2/Consultorio)
 
 ## Colaboración y Contribuciones 
 Siempre estoy abierto a colaboraciones interesantes y aportaciones a mis proyectos. 
