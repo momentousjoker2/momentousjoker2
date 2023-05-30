@@ -20,6 +20,7 @@ A lo largo de mi carrera, he trabajado en diversos proyectos que han abarcado di
 Si deseas comunicarte conmigo o conocer más sobre mis proyectos, puedes encontrarme en: 
 - Correo electrónico: camezcuamoreno@gmail.com
 - LinkedIn:[Link](https://www.linkedin.com/in/camezcuamoreno/)
+
 ¡Espero que encuentres algo interesante en mis proyectos! 
 No dudes en explorarlos y proporcionar cualquier comentario o sugerencia que puedas tener. 
 ¡Gracias de nuevo por visitar mi perfil de GitHub y espero tener la oportunidad de colaborar contigo en el futuro!
